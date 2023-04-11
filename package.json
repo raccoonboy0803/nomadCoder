@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "css-loader": "^6.7.3",
     "gh-pages": "^5.0.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
@@ -40,5 +41,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://raccoonboy.github.io/nomadCoder"
+  "homepage": "https://raccoonboy0803.github.io/nomadCoder",
+  "devDependencies": {
+    "style-loader": "^3.3.2"
+  }
 }
